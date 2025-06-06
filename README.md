@@ -1,5 +1,9 @@
 <h1 align="center">🔒 Padrão de Projeto Singleton em Java</h1>
 
+<p align="center">
+  <img src="https://www.geeksforgeeks.org/wp-content/uploads/Singleton-Design-Pattern-in-Java-1-1.png" alt="Diagrama do Padrão Singleton em Java" width="600"/>
+</p>
+
 ---
 
 Este projeto demonstra a aplicação do padrão Singleton em Java por meio de exemplos práticos, como um sistema de Logger e cadastro de usuários com IDs automáticos.
