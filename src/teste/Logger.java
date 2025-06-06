@@ -4,7 +4,7 @@ public class Logger {
     private static Logger instance;
 
     private Logger() {
-        // Construtor privado
+        
     }
 
     public static Logger getInstance() {
